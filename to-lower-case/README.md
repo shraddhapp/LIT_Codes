@@ -1,3 +1,4 @@
+[Discussion Post (created on 6/7/2021 at 22:58)](https://leetcode.com/problems/to-lower-case/discuss/1387579/Python-solution-using-ASCII)  
 <h2>709. To Lower Case</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, return <em>the string after replacing every uppercase letter with the same lowercase letter</em>.</p>
 
 <p>&nbsp;</p>
