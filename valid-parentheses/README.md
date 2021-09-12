@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/8/2021 at 21:59)](https://leetcode.com/problems/valid-parentheses/discuss/1459641/Stack-or-Python-or-Simple-or-With-Comments)  
 <h2>20. Valid Parentheses</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code> containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.</p>
 
 <p>An input string is valid if:</p>
