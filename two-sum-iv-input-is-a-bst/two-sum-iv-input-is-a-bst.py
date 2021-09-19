@@ -10,12 +10,12 @@ class Solution(object):
     
     def convertToArray (self,root: Optional[TreeNode]) -> List:
          
-        self.out_list = []
+        out_list = []
         if root:
-            self.out_list+=self.convertToArray(root.left)
-            self.out_list.append(root.val)
-            self.out_list+=self.convertToArray(root.right) 
-        return self.out_list
+            out_list+=self.convertToArray(root.left)
+            out_list.append(root.val)
+            out_list+=self.convertToArray(root.right) 
+        return out_list
     
     
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
