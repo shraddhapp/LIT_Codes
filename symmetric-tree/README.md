@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/8/2021 at 17:28)](https://leetcode.com/problems/symmetric-tree/discuss/1474761/Recursive-Solution)  
 <h2>101. Symmetric Tree</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
 
 <p>&nbsp;</p>
