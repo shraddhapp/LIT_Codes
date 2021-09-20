@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/8/2021 at 18:40)](https://leetcode.com/problems/binary-search/discuss/1474856/Recursive-and-Iterative-Python-solutions-or-Easy-Understanding)  
 <h2>704. Binary Search</h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p>
 
 <p>You must write an algorithm with <code>O(log n)</code> runtime complexity.</p>
